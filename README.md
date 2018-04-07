@@ -40,3 +40,6 @@ Access control rules (the language that defines ACLs) fall into two main areas:
 
 + Participants, Commodities and Transactions are defined in models/trading.cto file.
 + The logic is mentioned in lib/logic.js
+
+
+To see a working of this, please click [here](https://drive.google.com/open?id=1nEfx5ZhMZ62JhHOQ_fcADsjh-Gb4TgHS)
