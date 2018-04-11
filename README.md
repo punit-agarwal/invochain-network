@@ -21,12 +21,12 @@ Blockchain Application | Trade Network
 
 This business network contains 3 traders
   + Punit Agarwal
-  + HR Invotech
-  + CEO Invotech
+  + HR
+  + CEO
 Each Trader can see only transactions related to his trades and have the ability to trade his products.
 
 This business network also contains 1 regulator
-  + CTO Invotech
+  + CTO
   
 Regulator has the ability to view all the trades, performed by each trader.
 
